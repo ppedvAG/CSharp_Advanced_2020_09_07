@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\bin\Debug\netcoreapp3.1\HalloReflections.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\bin\Debug\netcoreapp3.1\HalloReflections.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\bin\Debug\netcoreapp3.1\HalloReflections.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\bin\Debug\netcoreapp3.1\HalloReflections.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\bin\Debug\netcoreapp3.1\HalloReflections.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\bin\Debug\netcoreapp3.1\HalloReflections.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\obj\Debug\netcoreapp3.1\HalloReflections.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\obj\Debug\netcoreapp3.1\HalloReflections.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\obj\Debug\netcoreapp3.1\HalloReflections.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\obj\Debug\netcoreapp3.1\HalloReflections.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\obj\Debug\netcoreapp3.1\HalloReflections.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\HalloReflections\obj\Debug\netcoreapp3.1\HalloReflections.genruntimeconfig.cache

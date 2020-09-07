@@ -4,3 +4,17 @@ https://www.c-sharpcorner.com/
 
 Advanced Beispiele:
 CodeProject.com 
+
+
+
+
+
+
+
+Wiederholung Morgen: 
+Dependency Injections mit Car / CarService
+
+PluginSystem -> Dll einlesen und Interface bietet Schnittstellen Möglichkeit
+
+
+
