@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp71_Features", "CSharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8_Features", "CSharp8_Features\CSharp8_Features.csproj", "{61E02C8B-E68C-434D-ACC4-18A11F5893CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesUndEreignisse", "DelegatesUndEreignisse\DelegatesUndEreignisse.csproj", "{135063F7-0E1F-4182-80CD-0966CE48749B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,10 @@ Global
 		{61E02C8B-E68C-434D-ACC4-18A11F5893CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61E02C8B-E68C-434D-ACC4-18A11F5893CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61E02C8B-E68C-434D-ACC4-18A11F5893CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135063F7-0E1F-4182-80CD-0966CE48749B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135063F7-0E1F-4182-80CD-0966CE48749B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135063F7-0E1F-4182-80CD-0966CE48749B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135063F7-0E1F-4182-80CD-0966CE48749B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +48,7 @@ Global
 		{20114E9D-A25A-4D2D-9DA4-BD77B8BD9915} = {F33A086A-EB27-4E2B-9132-471E040B7599}
 		{A25E2EED-794E-4A6C-96DD-B4066CB20A5E} = {F33A086A-EB27-4E2B-9132-471E040B7599}
 		{61E02C8B-E68C-434D-ACC4-18A11F5893CF} = {F33A086A-EB27-4E2B-9132-471E040B7599}
+		{135063F7-0E1F-4182-80CD-0966CE48749B} = {F33A086A-EB27-4E2B-9132-471E040B7599}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2BAA90E-2A0C-46FA-88DB-B385D1BE47EB}
