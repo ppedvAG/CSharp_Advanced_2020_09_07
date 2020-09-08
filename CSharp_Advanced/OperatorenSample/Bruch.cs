@@ -30,7 +30,6 @@ namespace OperatorenSample
 
         //public override bool Equals(object obj)
         //{
-
         //    return base.Equals(obj);
         //}
   

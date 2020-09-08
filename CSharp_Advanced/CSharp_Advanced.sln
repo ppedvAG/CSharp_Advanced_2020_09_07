@@ -78,6 +78,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operatoren", "Operatoren", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorenSample", "OperatorenSample\OperatorenSample.csproj", "{D3225DD6-46E4-4241-84CB-614BBA72DCF9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialisierung", "Serialisierung", "{975EAA66-DBFA-451C-97BD-8625C7EC4B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialisierungsSample", "SerialisierungsSample\SerialisierungsSample.csproj", "{4D5F57D4-C71B-4461-A9C0-236CCBD7263A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -188,6 +192,10 @@ Global
 		{D3225DD6-46E4-4241-84CB-614BBA72DCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3225DD6-46E4-4241-84CB-614BBA72DCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3225DD6-46E4-4241-84CB-614BBA72DCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5F57D4-C71B-4461-A9C0-236CCBD7263A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5F57D4-C71B-4461-A9C0-236CCBD7263A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5F57D4-C71B-4461-A9C0-236CCBD7263A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5F57D4-C71B-4461-A9C0-236CCBD7263A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -219,6 +227,7 @@ Global
 		{66222973-CB33-41F3-A801-B376C2D22A7A} = {065688B6-CAC9-467C-97C9-4A8BF5FCDEDB}
 		{25BE8713-2F41-4351-803F-20652CF7055A} = {065688B6-CAC9-467C-97C9-4A8BF5FCDEDB}
 		{D3225DD6-46E4-4241-84CB-614BBA72DCF9} = {B375674F-D747-4F1D-A918-1AB50408C8CA}
+		{4D5F57D4-C71B-4461-A9C0-236CCBD7263A} = {975EAA66-DBFA-451C-97BD-8625C7EC4B17}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2BAA90E-2A0C-46FA-88DB-B385D1BE47EB}
