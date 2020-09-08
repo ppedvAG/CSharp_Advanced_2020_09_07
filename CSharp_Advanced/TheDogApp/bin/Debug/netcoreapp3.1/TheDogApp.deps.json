@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TheDogApp/1.0.0": {
+        "dependencies": {
+          "TheDogLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TheDogApp.dll": {}
+        }
+      },
+      "TheDogLibrary/1.0.0": {
+        "runtime": {
+          "TheDogLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheDogApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheDogLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

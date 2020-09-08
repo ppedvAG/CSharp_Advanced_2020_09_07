@@ -19,13 +19,22 @@ PluginSystem -> Dll einlesen und Interface bietet Schnittstellen Möglichkeit
 
 Dienstag: 
 Generics
-Multi Threading
-Serialsierung (CSV, XML, JSON, Binär) 
+Erweiterungsmethoden
+Serialsierung (CSV, XML, JSON, Binär)
+-	Fragerunde
 
 
 Mittwoch: 
-Beispiel-Anwendung. 
-Erweiterungsmethoden
+Multi Threading
+---------------------------------------------------
+DataAccess + Beispiel Application + Aufbau ADO.NET 
+Linq + Lambda
+Entity Framework + Beispiel Application
+
+Beispiel-Application
+
+
+
 
 Entity Framework und/oder ADO.NET Datenbankzugriff 
 Call einer WebAPI Amazon - WPF Umgebung programmieren. 

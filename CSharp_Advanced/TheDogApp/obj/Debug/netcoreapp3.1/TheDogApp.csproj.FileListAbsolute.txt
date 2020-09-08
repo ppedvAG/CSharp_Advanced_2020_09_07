@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogApp.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogApp.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogApp.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogApp.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogApp.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogApp.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogLibrary.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\bin\Debug\netcoreapp3.1\TheDogLibrary.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogApp\obj\Debug\netcoreapp3.1\TheDogApp.genruntimeconfig.cache

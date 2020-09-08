@@ -33,9 +33,11 @@ namespace StringBuilderBenachmarkTest
 
             for (int i = 0; i < 10000; i++)
             {
-                
                 sb.Append(i);
             }
+            
+            //Auslesen von StringBuilder -> sb.ToString();
+
             stopUhr2.Stop();
 
             long test2 = stopUhr2.ElapsedMilliseconds;

@@ -1,0 +1,8 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\bin\Debug\netcoreapp3.1\TheDogLibrary.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\bin\Debug\netcoreapp3.1\TheDogLibrary.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\bin\Debug\netcoreapp3.1\TheDogLibrary.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\obj\Debug\netcoreapp3.1\TheDogLibrary.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\obj\Debug\netcoreapp3.1\TheDogLibrary.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\obj\Debug\netcoreapp3.1\TheDogLibrary.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\obj\Debug\netcoreapp3.1\TheDogLibrary.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TheDogLibrary\obj\Debug\netcoreapp3.1\TheDogLibrary.pdb
