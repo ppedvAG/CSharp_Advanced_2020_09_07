@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "md2WFgjlQhsJNcXoL9vJzq7H9+0KwDGY96gv5aPqMORUQbNTkqkiHaCqH0yIy4jEdNodSYnNH94sjQeggQxA+A==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KW4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

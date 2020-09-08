@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "peHFu5z5mTsLP1QKxv/omU00Oi5ZR/8WCL5RBhAD0+W2IRiaptNPePgD/n3OBuJ9t8HqvRSQ/lXVIIPPFHny+A==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\CSharp_Advanced\\Rechner\\Rechner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KW4\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

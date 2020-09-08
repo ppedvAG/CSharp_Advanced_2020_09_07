@@ -13,8 +13,23 @@ CodeProject.com
 
 Wiederholung Morgen: 
 Dependency Injections mit Car / CarService
-
 PluginSystem -> Dll einlesen und Interface bietet Schnittstellen Möglichkeit
 
 
 
+Dienstag: 
+Generics
+Multi Threading
+Serialsierung (CSV, XML, JSON, Binär) 
+
+
+Mittwoch: 
+Beispiel-Anwendung. 
+Erweiterungsmethoden
+
+Entity Framework und/oder ADO.NET Datenbankzugriff 
+Call einer WebAPI Amazon - WPF Umgebung programmieren. 
+
+
+GitHub: Microsoft Beispiel-Anwendungen / Code-Beispiele
+-> https://github.com/dotnet/samples

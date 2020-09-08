@@ -53,7 +53,6 @@ namespace CSharp8_Features
             string path2 = @"C:\Programme\ABC";
 
             string einfacherString = "hallo ich schreibe hier was \n das kennst von printf \t \t das steht weiter weg....";
-
             #endregion
 
 #nullable enable
