@@ -33,3 +33,6 @@ Call einer WebAPI Amazon - WPF Umgebung programmieren.
 
 GitHub: Microsoft Beispiel-Anwendungen / Code-Beispiele
 -> https://github.com/dotnet/samples
+
+OnlineView auf den SourceCode von .NET Core
+https://referencesource.microsoft.com/

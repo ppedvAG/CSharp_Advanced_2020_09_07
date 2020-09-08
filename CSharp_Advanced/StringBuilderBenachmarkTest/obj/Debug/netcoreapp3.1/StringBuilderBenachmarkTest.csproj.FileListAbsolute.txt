@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\bin\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\bin\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\bin\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\bin\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\bin\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\bin\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\obj\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\obj\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\obj\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\obj\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\obj\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\StringBuilderBenachmarkTest\obj\Debug\netcoreapp3.1\StringBuilderBenachmarkTest.genruntimeconfig.cache

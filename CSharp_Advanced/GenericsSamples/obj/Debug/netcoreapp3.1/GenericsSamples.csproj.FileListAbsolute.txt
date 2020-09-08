@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\bin\Debug\netcoreapp3.1\GenericsSamples.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\bin\Debug\netcoreapp3.1\GenericsSamples.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\bin\Debug\netcoreapp3.1\GenericsSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\bin\Debug\netcoreapp3.1\GenericsSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\bin\Debug\netcoreapp3.1\GenericsSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\bin\Debug\netcoreapp3.1\GenericsSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\obj\Debug\netcoreapp3.1\GenericsSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\obj\Debug\netcoreapp3.1\GenericsSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\obj\Debug\netcoreapp3.1\GenericsSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\obj\Debug\netcoreapp3.1\GenericsSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\obj\Debug\netcoreapp3.1\GenericsSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\GenericsSamples\obj\Debug\netcoreapp3.1\GenericsSamples.genruntimeconfig.cache
