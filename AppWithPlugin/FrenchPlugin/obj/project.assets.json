@@ -749,6 +749,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "PluginBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/PluginBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
       }
     }
   },
@@ -1867,13 +1877,18 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "PluginBase/1.0.0": {
+      "type": "project",
+      "path": "../PluginBase/PluginBase.csproj",
+      "msbuildProject": "../PluginBase/PluginBase.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
       "Humanizer >= 2.8.26",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "PluginBase >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1946,16 +1961,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }

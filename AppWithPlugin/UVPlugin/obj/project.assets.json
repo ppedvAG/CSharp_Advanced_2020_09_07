@@ -771,11 +771,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
       "projectName": "UVPlugin",
-      "projectPath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\UVPlugin\\obj\\",
+      "outputPath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\UVPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -794,8 +794,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
-              "projectPath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+            "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
               "excludeAssets": "runtime"
             }
           }

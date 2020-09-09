@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "Pte1M+siIlfYGKWfUKgsXu1+IvdmaSq0k4ND21nhzNlwH5cOZ3T5F1D6HSjdF+mUm4ChUve1XpOswNBbYBNk3Q==",
-  "success": false,
+  "dgSpecHash": "w/XzOnodUbHRjdCstTqJs3D0qv+RY0yv5xVA68VYTa+ipuTM8l3OFLb45Z3Tq3vhrqguAtDblJuDMCySuj3kJQ==",
+  "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\FrenchPlugin\\FrenchPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\humanizer\\2.8.26\\humanizer.2.8.26.nupkg.sha512",
@@ -58,15 +58,5 @@
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    }
-  ]
+  "logs": []
 }

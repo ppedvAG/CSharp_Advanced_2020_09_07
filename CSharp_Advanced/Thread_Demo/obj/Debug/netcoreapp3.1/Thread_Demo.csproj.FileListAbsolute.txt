@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\bin\Debug\netcoreapp3.1\Thread_Demo.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\bin\Debug\netcoreapp3.1\Thread_Demo.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\bin\Debug\netcoreapp3.1\Thread_Demo.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\bin\Debug\netcoreapp3.1\Thread_Demo.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\bin\Debug\netcoreapp3.1\Thread_Demo.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\bin\Debug\netcoreapp3.1\Thread_Demo.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\Thread_Demo\obj\Debug\netcoreapp3.1\Thread_Demo.csprojAssemblyReference.cache

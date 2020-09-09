@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\bin\Debug\netcoreapp3.1\CSharp7_Features.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\bin\Debug\netcoreapp3.1\CSharp7_Features.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\bin\Debug\netcoreapp3.1\CSharp7_Features.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\bin\Debug\netcoreapp3.1\CSharp7_Features.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\bin\Debug\netcoreapp3.1\CSharp7_Features.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\bin\Debug\netcoreapp3.1\CSharp7_Features.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\CSharp7_Features\obj\Debug\netcoreapp3.1\CSharp7_Features.genruntimeconfig.cache

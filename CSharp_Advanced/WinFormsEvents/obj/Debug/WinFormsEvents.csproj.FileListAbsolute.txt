@@ -1,0 +1,10 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\bin\Debug\WinFormsEvents.exe.config
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\bin\Debug\WinFormsEvents.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\bin\Debug\WinFormsEvents.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.Form1.resources
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\WinFormsEvents\obj\Debug\WinFormsEvents.pdb

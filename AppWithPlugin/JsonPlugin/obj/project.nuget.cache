@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w2TMq9rz1y9zcADslRYq4rPy5IjMFGNe1z7E/X1p2sRiEfLdcOrGV38Un7swWg2hx3BeuayKq+my38YJMUWEqw==",
+  "dgSpecHash": "ivLS9qfOPMyvGtiRCn7eSUC4nOuTWKAwhU9Y27aErmaPu02B2iKR9qVFW30IRwACbhnS5gI28IfGbxNxbntm1A==",
   "success": true,
-  "projectFilePath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\JsonPlugin\\JsonPlugin.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\JsonPlugin\\JsonPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

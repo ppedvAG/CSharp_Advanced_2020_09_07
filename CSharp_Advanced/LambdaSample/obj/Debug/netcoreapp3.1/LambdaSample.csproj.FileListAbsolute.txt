@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\bin\Debug\netcoreapp3.1\LambdaSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\bin\Debug\netcoreapp3.1\LambdaSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\bin\Debug\netcoreapp3.1\LambdaSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\bin\Debug\netcoreapp3.1\LambdaSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\bin\Debug\netcoreapp3.1\LambdaSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\bin\Debug\netcoreapp3.1\LambdaSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\obj\Debug\netcoreapp3.1\LambdaSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\obj\Debug\netcoreapp3.1\LambdaSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\obj\Debug\netcoreapp3.1\LambdaSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\obj\Debug\netcoreapp3.1\LambdaSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\obj\Debug\netcoreapp3.1\LambdaSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\LambdaSample\obj\Debug\netcoreapp3.1\LambdaSample.genruntimeconfig.cache

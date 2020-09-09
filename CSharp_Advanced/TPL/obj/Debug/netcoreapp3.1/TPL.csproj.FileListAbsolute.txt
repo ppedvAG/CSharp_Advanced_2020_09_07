@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\bin\Debug\netcoreapp3.1\TPL.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\bin\Debug\netcoreapp3.1\TPL.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\bin\Debug\netcoreapp3.1\TPL.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\bin\Debug\netcoreapp3.1\TPL.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TPL\obj\Debug\netcoreapp3.1\TPL.csprojAssemblyReference.cache

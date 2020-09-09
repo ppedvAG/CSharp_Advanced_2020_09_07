@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\bin\Debug\netcoreapp3.1\TryCatchAndUsing.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\bin\Debug\netcoreapp3.1\TryCatchAndUsing.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\bin\Debug\netcoreapp3.1\TryCatchAndUsing.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\bin\Debug\netcoreapp3.1\TryCatchAndUsing.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\bin\Debug\netcoreapp3.1\TryCatchAndUsing.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\bin\Debug\netcoreapp3.1\TryCatchAndUsing.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\TryCatchAndUsing\obj\Debug\netcoreapp3.1\TryCatchAndUsing.genruntimeconfig.cache

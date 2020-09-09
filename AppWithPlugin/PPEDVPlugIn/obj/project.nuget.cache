@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsQ90nnBRkLjfkewWnDm/jW6kzERXdIbMtNzeQ5+709+scJegm+WIeFo5gu3Ho7pGycsXA3+ldh7TxRJR7/85A==",
+  "dgSpecHash": "tn0KKvjJR9jXJo6KXzzEu5GGUG5pp98rUXTaBcB4d5XRgoy8FURbm7Nk/wPCY0FTT+5xjrz7yhoLe0Ln61QfbA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\PPEDVPlugIn\\PPEDVPlugIn.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\PPEDVPlugIn\\PPEDVPlugIn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

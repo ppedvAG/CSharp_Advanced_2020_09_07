@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\bin\Debug\netcoreapp3.1\DelegatesWiederholung.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\bin\Debug\netcoreapp3.1\DelegatesWiederholung.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\bin\Debug\netcoreapp3.1\DelegatesWiederholung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\bin\Debug\netcoreapp3.1\DelegatesWiederholung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\bin\Debug\netcoreapp3.1\DelegatesWiederholung.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\bin\Debug\netcoreapp3.1\DelegatesWiederholung.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\obj\Debug\netcoreapp3.1\DelegatesWiederholung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\obj\Debug\netcoreapp3.1\DelegatesWiederholung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\obj\Debug\netcoreapp3.1\DelegatesWiederholung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\obj\Debug\netcoreapp3.1\DelegatesWiederholung.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\obj\Debug\netcoreapp3.1\DelegatesWiederholung.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DelegatesWiederholung\obj\Debug\netcoreapp3.1\DelegatesWiederholung.genruntimeconfig.cache

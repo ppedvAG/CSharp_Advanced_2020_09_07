@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\bin\Debug\netcoreapp3.1\DeadLockSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\bin\Debug\netcoreapp3.1\DeadLockSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\bin\Debug\netcoreapp3.1\DeadLockSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\bin\Debug\netcoreapp3.1\DeadLockSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\bin\Debug\netcoreapp3.1\DeadLockSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\bin\Debug\netcoreapp3.1\DeadLockSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\obj\Debug\netcoreapp3.1\DeadLockSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\obj\Debug\netcoreapp3.1\DeadLockSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\obj\Debug\netcoreapp3.1\DeadLockSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\obj\Debug\netcoreapp3.1\DeadLockSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\obj\Debug\netcoreapp3.1\DeadLockSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DeadLockSample\obj\Debug\netcoreapp3.1\DeadLockSample.genruntimeconfig.cache

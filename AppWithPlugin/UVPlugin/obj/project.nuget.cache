@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+eYDl0cJ4JxLgPazi//Y/YpJDGBtLV2WMyP8iJxYHxKCbFdbzjmTNj24Z644zBjYJpEts0WG0tZOq4C8UUCQEg==",
+  "dgSpecHash": "lUJvfnEvUcvNd6dN3NHffkS+LP+Fjb3BKKGN5MpS4W+1g0FUaE0vrOaijt1Sd4/DTCUkzOqNm/GjmK1qHnQWnQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub_Projects\\NetCore Entwicklungen von Microsoft\\samples\\core\\extensions\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_2020_09_07\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",

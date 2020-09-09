@@ -45,3 +45,21 @@ GitHub: Microsoft Beispiel-Anwendungen / Code-Beispiele
 
 OnlineView auf den SourceCode von .NET Core
 https://referencesource.microsoft.com/
+
+
+
+
+
+Authoren und Gurus:
+
+Martin Fowler -> https://martinfowler.com/bliki/AntiPattern.html
+
+Domain-Driven Development + Architektur Gurus
+- Vaughn Vernon
+- Eric J. Evans
+- Scott Millett 
+
+Microsoft Authoren: 
+- Dino Esposito -> https://www.amazon.de/Dino-Esposito/e/B001ILIFJ8
+- Julia Lernmann -> http://thedatafarm.com/
+

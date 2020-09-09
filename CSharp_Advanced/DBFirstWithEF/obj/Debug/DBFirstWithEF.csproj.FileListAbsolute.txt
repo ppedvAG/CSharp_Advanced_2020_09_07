@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\DBFirstWithEF.dll.config
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\DBFirstWithEF.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\DBFirstWithEF.pdb
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\EntityFramework.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\EntityFramework.xml
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\obj\Debug\DBFirstWithEF.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\obj\Debug\DBFirstWithEF.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\obj\Debug\DBFirstWithEF.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\obj\Debug\DBFirstWithEF.dll
+C:\Aktueller Kurs\CSharp_Advanced_2020_09_07\CSharp_Advanced\DBFirstWithEF\obj\Debug\DBFirstWithEF.pdb

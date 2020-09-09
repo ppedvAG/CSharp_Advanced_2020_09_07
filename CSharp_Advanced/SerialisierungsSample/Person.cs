@@ -5,7 +5,7 @@ using System.Text;
 namespace SerialisierungsSample
 {
 
-    [Serializable]
+    [Serializable] //-> Wird nur für binäre Serialisierung verwendet
     public class Person
     {
         public string Vorname { get; set; }
